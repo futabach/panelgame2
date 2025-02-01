@@ -1,10 +1,10 @@
 const cacheName = "imogeraWorks-panelgame2-1.0";
 const contentToCache = [
     "Build/out.loader.js",
-    "Build/out.framework.js.unityweb",
-    "Build/out.worker.js.unityweb",
-    "Build/out.data.unityweb",
-    "Build/out.wasm.unityweb",
+    "Build/out.framework.js",
+    "Build/out.worker.js",
+    "Build/out.data",
+    "Build/out.wasm",
     "TemplateData/style.css"
 
 ];
