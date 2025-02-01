@@ -1,4 +1,4 @@
-const cacheName = "imogeraWorks-panelgame2-0.1";
+const cacheName = "imogeraWorks-panelgame2-1.0";
 const contentToCache = [
     "Build/out.loader.js",
     "Build/out.framework.js",
