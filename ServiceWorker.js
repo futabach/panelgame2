@@ -1,9 +1,9 @@
 const cacheName = "imogeraWorks-panelgame2-0.1";
 const contentToCache = [
     "Build/out.loader.js",
-    "Build/out.framework.js.gz",
-    "Build/out.data.gz",
-    "Build/out.wasm.gz",
+    "Build/out.framework.js",
+    "Build/out.data",
+    "Build/out.wasm",
     "TemplateData/style.css"
 
 ];
